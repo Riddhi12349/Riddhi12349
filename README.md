@@ -12,9 +12,9 @@
 ![Riddhi12349's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhi12349&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 **Connect With Me**
-https://www.linkedin.com/in/riddhi-garg-67381121b/
-https://twitter.com/riddhig81466386
-https://www.instagram.com/riddhi_garg/
-https://leetcode.com/Riddhi_123/
-https://auth.geeksforgeeks.org/user/riddhigarg385
+![LinkedIn](https://www.linkedin.com/in/riddhi-garg-67381121b/)
+![X](https://twitter.com/riddhig81466386)
+![Instagram](https://www.instagram.com/riddhi_garg/)
+![Leetcode](https://leetcode.com/Riddhi_123/)
+![GFG](https://auth.geeksforgeeks.org/user/riddhigarg385)
 
