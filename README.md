@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riddhi Garg</h1>
 <h3 align="center">Passionate about solving problems and working on real world projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhi12349&label=Profile%20views&color=0e75b6&style=flat" alt="riddhi12349" /> </p>
-
 - 🔭 I’m currently working on **MERN Stack and ML Projects.**
 
 - 🌱 I’m currently learning **Machine Learning.**
@@ -26,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riddhi12349&theme=vue-dark&hide_border=true" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhi12349&label=Profile%20views&color=0e75b6&style=flat" alt="riddhi12349" /> </p>
