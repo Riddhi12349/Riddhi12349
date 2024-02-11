@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Riddhi12349/Riddhi12349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am Riddhi. Passionate about solving problems and working on real world projects.
+ 
+ 🔭 I’m currently working on MERN Stack and ML Projects.
+ 🌱 I’m currently learning Machine Learning.
+ 🤔 I’m looking for help with Kaggle Competitions.
 
-Here are some ideas to get you started:
+**My Stats**
+![Riddhi12349's Stats](https://github-readme-stats.vercel.app/api?username=Riddhi12349&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Riddhi12349's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riddhi12349&theme=vue-dark&hide_border=true)
+![Riddhi12349's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhi12349&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect With Me**
+https://www.linkedin.com/in/riddhi-garg-67381121b/
+https://twitter.com/riddhig81466386
+https://www.instagram.com/riddhi_garg/
+https://leetcode.com/Riddhi_123/
+https://auth.geeksforgeeks.org/user/riddhigarg385
+
