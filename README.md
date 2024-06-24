@@ -7,12 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/riddhig81466386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riddhig81466386" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/riddhi-garg-67381121b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi-garg-67381121b" height="30" width="40" /></a>
-<a href="https://kaggle.com/rgarg1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rgarg1234" height="30" width="40" /></a>
 <a href="https://instagram.com/riddhi_garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riddhi_garg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/riddhigarg385" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riddhigarg385" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/riddhigarg385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="riddhigarg385" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/riddhi_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riddhi_123" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/riddhigarg385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="riddhigarg385" height="30" width="40" /></a>
 </p>
