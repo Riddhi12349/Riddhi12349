@@ -18,8 +18,8 @@
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Riddhi12349&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /></p>
-
+[![](https://holopin.me/riddhi123)](https://holopin.io/@riddhi123)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riddhi12349&theme=vue-dark&hide_border=true" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhi12349&label=Profile%20views&color=0e75b6&style=flat" alt="riddhi12349" /> </p>
-[![An image of @riddhi123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riddhi123)](https://holopin.io/@riddhi123)
+
