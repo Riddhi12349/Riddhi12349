@@ -24,4 +24,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhi12349&label=Profile%20views&color=0e75b6&style=flat" alt="riddhi12349" /> </p>
 
 <hr>
-![{4BFACE07-F4DF-49B0-91D9-9312E196A08A}](https://github.com/user-attachments/assets/7ceba03e-31d0-43ad-85ca-0be66c728752)
+<!-- ![{4BFACE07-F4DF-49B0-91D9-9312E196A08A}](https://github.com/user-attachments/assets/7ceba03e-31d0-43ad-85ca-0be66c728752) -->
