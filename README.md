@@ -26,5 +26,4 @@
 <hr>
 <!-- ![{4BFACE07-F4DF-49B0-91D9-9312E196A08A}](https://github.com/user-attachments/assets/7ceba03e-31d0-43ad-85ca-0be66c728752) -->
 
-<hr>
-[![An image of @riddhi123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riddhi123)](https://holopin.io/@riddhi123)
+[![@riddhi123's Holopin board] (https://holopin.io/api/user/board?user=riddhi123)]
