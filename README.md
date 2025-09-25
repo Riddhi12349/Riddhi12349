@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Projects.**
 
-- 🌱 I’m currently learning **Web Development.**
+- 🌱 I’m currently learning **Web Development WITH AI TECHNOLOGIES.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
