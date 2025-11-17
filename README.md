@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riddhi Garg</h1>
 <h3 align="center">Passionate about solving problems and working on real world projects.</h3>
 
-- 🔭 I’m currently working on **MERN Stack Projects.**
+- 🔭 I Have interned at OYO as Software Developer**
 
-- 🌱 I’m currently learning **Web Development WITH AI TECHNOLOGIES.**
+- 🌱 I’m currently learning **Web Development WITH AI TECHNOLOGIES And In Spring Boot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
